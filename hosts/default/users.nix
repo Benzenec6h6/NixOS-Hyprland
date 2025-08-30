@@ -24,6 +24,7 @@ in
         "audio"
       ];
 
+      hashedPassword = "$6$qPo6ahBPqNC7mMim$WupFSLamdZfSEoafxSoE1ODgtaHS8gmUayQ2dTiW4vDBAVVJDcuj1yMYAHq.tz5mmZW7aqb44KnMacSq12xpO1";
     # define user packages here
     packages = with pkgs; [
       ];
